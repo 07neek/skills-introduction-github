@@ -1,2 +1,2 @@
 # skills-introduction-github 
-try lo learn 
+try lo learn how to work pull request
